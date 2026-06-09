@@ -1,0 +1,32 @@
+# Core HTTP & parsing
+requests
+beautifulsoup4
+urllib3
+
+# Excel export
+openpyxl
+
+# Country/locale data
+pycountry
+
+# Browser automation
+selenium
+undetected-chromedriver
+
+# Date parsing
+python-dateutil
+
+# MongoDB
+pymongo
+
+# Image handling
+Pillow
+
+# Captcha worker (Windows GUI automation)
+pyautogui
+pygetwindow
+filelock
+
+# Windows-only (captcha_worker.py)
+# Install only on Windows; skip on Linux/Mac
+pywin32

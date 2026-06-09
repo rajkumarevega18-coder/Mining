@@ -1,0 +1,361 @@
+# Country alias → canonical name mapping
+# Format: alias|Canonical Name
+# Lines starting with # are comments. Aliases are matched case-insensitively.
+# Longer aliases are checked before shorter ones to avoid premature matches.
+
+# ── United States ──────────────────────────────────────────────────────────────
+united states of america|United States
+united states|United States
+u.s.a.|United States
+u.s.a|United States
+u.s.|United States
+u.s|United States
+usa|United States
+us|United States
+
+# ── United Kingdom ─────────────────────────────────────────────────────────────
+united kingdom|United Kingdom
+great britain|United Kingdom
+northern ireland|United Kingdom
+u.k.|United Kingdom
+u.k|United Kingdom
+uk|United Kingdom
+england|United Kingdom
+scotland|United Kingdom
+wales|United Kingdom
+britain|United Kingdom
+
+# ── United Arab Emirates ───────────────────────────────────────────────────────
+united arab emirates|United Arab Emirates
+u.a.e.|United Arab Emirates
+u.a.e|United Arab Emirates
+uae|United Arab Emirates
+emirates|United Arab Emirates
+
+# ── Saudi Arabia ───────────────────────────────────────────────────────────────
+kingdom of saudi arabia|Saudi Arabia
+saudi arabia|Saudi Arabia
+k.s.a.|Saudi Arabia
+k.s.a|Saudi Arabia
+ksa|Saudi Arabia
+
+# ── Korea ──────────────────────────────────────────────────────────────────────
+democratic people's republic of korea|North Korea
+republic of korea|South Korea
+south korea|South Korea
+north korea|North Korea
+r.o.k.|South Korea
+r.o.k|South Korea
+dprk|North Korea
+korea|South Korea
+rok|South Korea
+
+# ── China ──────────────────────────────────────────────────────────────────────
+people's republic of china|China
+mainland china|China
+p.r. china|China
+p.r.china|China
+pr china|China
+p.r.c.|China
+p.r.c|China
+china|China
+prc|China
+
+# ── Hong Kong ──────────────────────────────────────────────────────────────────
+hong kong sar|Hong Kong
+hong kong|Hong Kong
+hksar|Hong Kong
+
+# ── Taiwan ─────────────────────────────────────────────────────────────────────
+republic of china|Taiwan
+taiwan|Taiwan
+r.o.c.|Taiwan
+r.o.c|Taiwan
+
+# ── Russia ─────────────────────────────────────────────────────────────────────
+russian federation|Russian Federation
+russia|Russian Federation
+
+# ── Iran ───────────────────────────────────────────────────────────────────────
+islamic republic of iran|Iran
+iran|Iran
+
+# ── Syria ──────────────────────────────────────────────────────────────────────
+syrian arab republic|Syria
+syria|Syria
+
+# ── Vietnam ────────────────────────────────────────────────────────────────────
+viet nam|Viet Nam
+vietnam|Viet Nam
+
+# ── Laos ───────────────────────────────────────────────────────────────────────
+lao people's democratic republic|Lao People's Democratic Republic
+laos|Lao People's Democratic Republic
+
+# ── Moldova ────────────────────────────────────────────────────────────────────
+republic of moldova|Moldova
+moldova|Moldova
+
+# ── Venezuela ──────────────────────────────────────────────────────────────────
+venezuela|Venezuela
+
+# ── Bolivia ────────────────────────────────────────────────────────────────────
+bolivia|Bolivia
+
+# ── Tanzania ───────────────────────────────────────────────────────────────────
+united republic of tanzania|Tanzania
+tanzania|Tanzania
+
+# ── Palestine ──────────────────────────────────────────────────────────────────
+state of palestine|Palestine
+palestine|Palestine
+west bank|Palestine
+gaza|Palestine
+
+# ── Brunei ─────────────────────────────────────────────────────────────────────
+brunei darussalam|Brunei Darussalam
+brunei|Brunei Darussalam
+
+# ── Czech Republic ─────────────────────────────────────────────────────────────
+czech republic|Czechia
+czechia|Czechia
+
+# ── North Macedonia ────────────────────────────────────────────────────────────
+north macedonia|North Macedonia
+macedonia|North Macedonia
+
+# ── Turkey ─────────────────────────────────────────────────────────────────────
+republic of turkey|Turkey
+turkiye|Turkey
+turkey|Turkey
+
+# ── Brazil ─────────────────────────────────────────────────────────────────────
+brasil|Brazil
+brazil|Brazil
+
+# ── Mexico ─────────────────────────────────────────────────────────────────────
+mexico|Mexico
+
+# ── Netherlands ────────────────────────────────────────────────────────────────
+the netherlands|Netherlands
+netherlands|Netherlands
+holland|Netherlands
+
+# ── Ireland ────────────────────────────────────────────────────────────────────
+republic of ireland|Ireland
+ireland|Ireland
+
+# ── Philippines ────────────────────────────────────────────────────────────────
+the philippines|Philippines
+philippines|Philippines
+
+# ── Myanmar ────────────────────────────────────────────────────────────────────
+myanmar|Myanmar
+burma|Myanmar
+
+# ── Macau ──────────────────────────────────────────────────────────────────────
+macau|Macao
+macao|Macao
+
+# ── Côte d'Ivoire ──────────────────────────────────────────────────────────────
+cote d'ivoire|Côte d'Ivoire
+ivory coast|Côte d'Ivoire
+
+# ── Africa ─────────────────────────────────────────────────────────────────────
+federal republic of nigeria|Nigeria
+democratic republic of the congo|Democratic Republic of the Congo
+republic of the congo|Republic of the Congo
+dr congo|Democratic Republic of the Congo
+drc|Democratic Republic of the Congo
+papua new guinea|Papua New Guinea
+guinea-bissau|Guinea-Bissau
+equatorial guinea|Equatorial Guinea
+guinea|Guinea
+nigeria|Nigeria
+niger|Niger
+south africa|South Africa
+egypt|Egypt
+kenya|Kenya
+ethiopia|Ethiopia
+ghana|Ghana
+cameroon|Cameroon
+morocco|Morocco
+kingdom of morocco|Morocco
+tunisia|Tunisia
+algeria|Algeria
+libya|Libya
+sudan|Sudan
+south sudan|South Sudan
+uganda|Uganda
+zimbabwe|Zimbabwe
+zambia|Zambia
+senegal|Senegal
+mali|Mali
+burkina faso|Burkina Faso
+chad|Chad
+central african republic|Central African Republic
+eritrea|Eritrea
+djibouti|Djibouti
+somalia|Somalia
+rwanda|Rwanda
+burundi|Burundi
+malawi|Malawi
+mozambique|Mozambique
+madagascar|Madagascar
+namibia|Namibia
+botswana|Botswana
+lesotho|Lesotho
+eswatini|Eswatini
+swaziland|Eswatini
+angola|Angola
+gabon|Gabon
+togo|Togo
+benin|Benin
+liberia|Liberia
+sierra leone|Sierra Leone
+mauritania|Mauritania
+cape verde|Cape Verde
+seychelles|Seychelles
+comoros|Comoros
+mauritius|Mauritius
+federal democratic republic of ethiopia|Ethiopia
+
+# ── Americas ───────────────────────────────────────────────────────────────────
+colombia|Colombia
+argentina|Argentina
+chile|Chile
+peru|Peru
+ecuador|Ecuador
+paraguay|Paraguay
+uruguay|Uruguay
+cuba|Cuba
+dominican republic|Dominican Republic
+costa rica|Costa Rica
+panama|Panama
+guatemala|Guatemala
+honduras|Honduras
+el salvador|El Salvador
+nicaragua|Nicaragua
+belize|Belize
+trinidad and tobago|Trinidad and Tobago
+trinidad|Trinidad and Tobago
+tobago|Trinidad and Tobago
+jamaica|Jamaica
+barbados|Barbados
+bahamas|Bahamas
+haiti|Haiti
+puerto rico|Puerto Rico
+guadeloupe|Guadeloupe
+martinique|Martinique
+canada|Canada
+
+# ── Asia ───────────────────────────────────────────────────────────────────────
+japan|Japan
+india|India
+republic of india|India
+pakistan|Pakistan
+bangladesh|Bangladesh
+sri lanka|Sri Lanka
+nepal|Nepal
+indonesia|Indonesia
+republic of indonesia|Indonesia
+malaysia|Malaysia
+thailand|Thailand
+singapore|Singapore
+cambodia|Cambodia
+bhutan|Bhutan
+maldives|Maldives
+timor-leste|Timor-Leste
+east timor|Timor-Leste
+mongolia|Mongolia
+myanmar|Myanmar
+
+# ── Central Asia ───────────────────────────────────────────────────────────────
+kazakhstan|Kazakhstan
+uzbekistan|Uzbekistan
+azerbaijan|Azerbaijan
+afghanistan|Afghanistan
+kyrgyzstan|Kyrgyzstan
+tajikistan|Tajikistan
+turkmenistan|Turkmenistan
+
+# ── Middle East ────────────────────────────────────────────────────────────────
+jordan|Jordan
+kingdom of jordan|Jordan
+lebanon|Lebanon
+republic of lebanon|Lebanon
+iraq|Iraq
+republic of iraq|Iraq
+kuwait|Kuwait
+state of kuwait|Kuwait
+qatar|Qatar
+state of qatar|Qatar
+bahrain|Bahrain
+kingdom of bahrain|Bahrain
+oman|Oman
+sultanate of oman|Oman
+yemen|Yemen
+israel|Israel
+
+# ── Oceania ────────────────────────────────────────────────────────────────────
+australia|Australia
+new zealand|New Zealand
+fiji|Fiji
+samoa|Samoa
+solomon islands|Solomon Islands
+vanuatu|Vanuatu
+tonga|Tonga
+
+# ── Europe ─────────────────────────────────────────────────────────────────────
+germany|Germany
+deutschland|Germany
+france|France
+italy|Italy
+italia|Italy
+spain|Spain
+portugal|Portugal
+belgium|Belgium
+switzerland|Switzerland
+austria|Austria
+sweden|Sweden
+norway|Norway
+denmark|Denmark
+finland|Finland
+poland|Poland
+greece|Greece
+romania|Romania
+hungary|Hungary
+ukraine|Ukraine
+croatia|Croatia
+serbia|Serbia
+bulgaria|Bulgaria
+slovakia|Slovakia
+slovenia|Slovenia
+lithuania|Lithuania
+latvia|Latvia
+estonia|Estonia
+luxembourg|Luxembourg
+malta|Malta
+cyprus|Cyprus
+iceland|Iceland
+andorra|Andorra
+monaco|Monaco
+san marino|San Marino
+bosnia and herzegovina|Bosnia and Herzegovina
+bosnia|Bosnia and Herzegovina
+herzegovina|Bosnia and Herzegovina
+kosovo|Kosovo
+albania|Albania
+montenegro|Montenegro
+belarus|Belarus
+georgia|Georgia
+armenia|Armenia
+
+# ── Philippines formal ─────────────────────────────────────────────────────────
+republic of the philippines|Philippines
+
+# ── Ghana formal ──────────────────────────────────────────────────────────────
+republic of ghana|Ghana
+
+# ── Kenya formal ──────────────────────────────────────────────────────────────
+republic of kenya|Kenya

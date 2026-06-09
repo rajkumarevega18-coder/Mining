@@ -1,0 +1,94 @@
+# Large-scale mining: industry-standard VPN country list (many servers per country)
+# One country per line. Comments (#) ignored. vpn_provider avoids reusing last 10.
+
+Albania
+Algeria
+Argentina
+Australia
+Austria
+Bangladesh
+Belgium
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Canada
+Chile
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Ecuador
+Egypt
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Guatemala
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Israel
+Italy
+Japan
+Kenya
+Latvia
+Lithuania
+Luxembourg
+Malaysia
+Malta
+Mexico
+Moldova
+Morocco
+Netherlands
+New Zealand
+Nigeria
+North Macedonia
+Norway
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Romania
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Venezuela
+Vietnam
+Azerbaijan
+Kazakhstan
+Armenia
+Tunisia
+Ghana
+Iraq
+Qatar
+Oman
+Kuwait
+Jordan
+Lebanon
+Sri Lanka
+Cambodia
+Myanmar
+Nepal
